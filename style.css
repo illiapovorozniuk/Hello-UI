@@ -571,9 +571,7 @@ h2 {
 
    }
 
-   .content {
-      margin: -60px 0 0 0;
-   }
+   .content {}
 
    li>.header__link {
       font-size: 50px;
@@ -593,7 +591,7 @@ h2 {
    }
 
    .content {
-      padding: 0;
+      padding: 60px 0 0 0;
    }
 
    .item__text.item2 {
